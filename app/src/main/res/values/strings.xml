@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Counting hollidays</string>
+    <string name="title_activity_holiday">Holiday</string>
+</resources>
